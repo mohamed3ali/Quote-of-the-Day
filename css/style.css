@@ -1,0 +1,15 @@
+.quote{
+    background-image: url(../img/576-5768145_growing-plant-clipart.png);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.quote h2 {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    font-weight: bold
+}
+.quoteAdd{
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
